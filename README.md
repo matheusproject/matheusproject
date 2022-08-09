@@ -1,6 +1,6 @@
-### Olá, mundo!
+### Hello, world!
 
-- 👨‍💻 Estudando algoritmo.
+- 👨‍💻 Studying algorithm
 
 <div align="center">
   <a href="https://github.com/devmatheus1">
