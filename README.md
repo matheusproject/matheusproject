@@ -1,6 +1,6 @@
 ### Hello, world!
 
-- 👨‍💻 Studying algorithm
+- 👨‍💻 Studying HTML5, CSS and JavaScript
 
 <div align="center">
   <a href="https://github.com/devmatheus1">
