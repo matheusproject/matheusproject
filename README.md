@@ -1,6 +1,6 @@
-### Hello, world!
+### Olá, mundo!
 
-- 👨‍💻 Studying HTML5, CSS and JavaScript
+- 👨‍💻 Aprendendo JavaScript
 
 <div align="center">
   <a href="https://github.com/devmatheus1">
